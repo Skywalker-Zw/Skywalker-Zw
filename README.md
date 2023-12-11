@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Django ,HTMX**
+- 🌱 I’m currently learning **C#. ASP.NETCORE, WEB APIs ,DATABASES**
 
-- 💬 Ask me about **Django, Python, Wordpress**
+- 💬 Ask me about **Django, Python, WordPress**
 
 - 📫 How to reach me **wilford@smartwebdesign.co.za**
 
